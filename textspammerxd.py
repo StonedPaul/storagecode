@@ -3,7 +3,7 @@ client = Client(
     "AC5fa60409ac8e6bd12e1677da29a7eea3", "84632e550f2b748e7b1e65ca547f495e"
 )
 sender = "+15134406219"
-receiver = "+15403956720"
+receiver = "I TOOK MY NUMBER OUT"
 message = "FUCk YOU BITCH"
 amount = int(input("amount: "))
 for i in range(0, amount):
